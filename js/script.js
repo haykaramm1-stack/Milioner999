@@ -504,7 +504,7 @@ function getWinBlock(num) {
         setTimeout(() => {
             getRemoveClassName()
         }, 200)
-    } else if (numBlock === 14) {
+    } else {
         winBlock[numBlock + 1].classList.remove('wins-active')
         winBlock[numBlock].classList.add('wins-active', 'animate__animated', 'animate_pulse')
     }
