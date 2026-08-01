@@ -568,12 +568,13 @@ function checkBlockChild(parentBlock) {
     }
   }
 const answers = {
-    question_1: 'Գ. Փողային',
-    question_2: 'Դ․ Լաջվարդակուրծք',
-    question_3: 'Բ․ Իլիական',
-    question_4: 'Գ․ Կիսակղզի',
-    question_5: 'Ա․ Սուրը',
-    question_6: 'Գ․ Մակարդ',
+    question_1: 'Գ. Ասկանա',
+    question_2: 'Գ․ Սաուդյան Արաբիա',
+    question_3: 'Գ․ Վեներա',
+    question_4: 'Գ․ Նինային',
+    question_5: 'Բ․ Րաֆֆի',
+    question_6: 'Բ․ «Պեպո»',
+    
     question_7: 'Գ․ Հելիում',
     question_8: 'Գ․ «Արկտիկա»',
     question_9: 'Բ․ Նախանձել',
